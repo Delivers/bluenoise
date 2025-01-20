@@ -27,10 +27,10 @@
 - <img src="image/08.PNG" alt="BlueNoiseHeader">
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF` 
-- <img src="image/09.PNG" alt="BlueNoiseHeader" width="400" height="600">
+- <img src="image/09.PNG" alt="BlueNoiseHeader">
 
 4. `1 DIP SWITCH` (OPTIONAL IF YOU WANT TO USE DIFFERENT PATTERN OF CHANNEL HOPPING)
-- <img src="image/07.jpg" alt="BlueNoiseHeader" width="400" height="600">
+- <img src="image/07.jpg" alt="BlueNoiseHeader">
 
 5. `Lithium Polymer Battery 3.7V 1100mAh` 
 - <img src="image/04.jpg" alt="BlueNoiseHeader">
@@ -65,7 +65,7 @@
 - ![NRF24L01 PIN]<img src="image/12.PNG" alt="BlueNoiseHeader">
 
 ### ESP32 PINS WHERE YOU ATTACH YOUR `NRF24` AND `SWITCH `
-- ![32]<img src="image/11.PNG" alt="BlueNoiseHeader">
+- ![32]<img src="image/11.png" alt="BlueNoiseHeader">
 
 
 ### HOW YOU ATTACH CAPACITOR LOOK OUT FOR POLAROITY SIGNS `- +`
