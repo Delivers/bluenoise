@@ -21,7 +21,7 @@
 ---
 ## REQUIRED DEVICE AND MODULE:
 1. `NRF24L01+ PLUS – PA LNA SMA Antenne`
--  <img src="image/10.jpeg" alt="BlueNoiseHeader">
+-  <img src="image/10.jpg" alt="BlueNoiseHeader">
 
 2. `1pc ESP32` NOTE... YOU CAN USE A `NANO OR MICRO` BUT ESP32 ARE CHEAP ALMOST SAME PRICE AS `ARDUINOS`...LOL
 - <img src="image/08.PNG" alt="BlueNoiseHeader">
@@ -78,7 +78,7 @@
 
 - ` WEBFLASHER `INSTALLER FOR EASY UPLOAD CODE ON ESP32 NO NEED TO DOWNLOAD INO FILE (USE CHROME OR MICROSOFT BROWSER)
 
- [WEBFLASHER](https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1) HERE....SELECT WHAT TO UPLOAD `VSPI,HSPI OR DUAL` AND CHOOSE RIGHT `COM PORT`
+ [WEBFLASHER](https://simonweckert.com/au5st3llung/COCO/flash/bluenoise/index.html) HERE....SELECT WHAT TO UPLOAD `VSPI,HSPI OR DUAL` AND CHOOSE RIGHT `COM PORT`
 
 
 ---
