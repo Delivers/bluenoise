@@ -1,6 +1,6 @@
 # Blue Noise
 
-<img src="image/00.png" alt="BlueNoiseHeader" width="400" height="600">
+<img src="image/00.png" alt="BlueNoiseHeader" width="963" height="232">
 
 ### Open-source Wireless Jamming Pentesting Device using ESP32-WROOM-32D & 2 NRFL01+PA+LNA Modules
 
@@ -13,25 +13,18 @@
 <img src="image/02.jpeg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
 <img src="image/03.jpeg" alt="Wifi and Bluetooth jammer made with an esp32 and nrf24l01+pa+lna modules." width="400" height="600">
 
-
- **WARNING!!! JAMMING IS ILLEGAL**
  ---
-# FOR UPDATED CODES AND FEATURE GO HERE [NOISY BOY](https://github.com/smoochiee/Noisy-boy-esp32-Bluetooth-jammer)
-
 # WHAT DOES IT DO?
 
-**IT CREATES NOISE SIGNAL TO JAM BLUETOOTH AND WIFI USING NRF24L01 AND ESP32 IN RANGE 2.4GHZ DEVICES , EFFECTS MAY VARY DEPENDS ON DEVICE BLUETOOTH VERSIONS **
-
----
-
+**IT CREATES NOISE SIGNAL TO JAM BLUETOOTH AND WIFI USING NRF24L01 AND ESP32 IN RANGE 2.4GHZ DEVICES , EFFECTS MAY VARY DEPENDS ON DEVICE BLUETOOTH VERSIONS....WARNING!!! JAMMING IS ILLEGAL**
 
 ---
 ## REQUIRED DEVICE AND MODULE:
-1. NRF24L01+ PLUS – PA LNA SMA Antenne
--  <img src="image/10.jpeg" alt="BlueNoiseHeader" width="400" height="600">
+1. `NRF24L01+ PLUS – PA LNA SMA Antenne`
+-  <img src="image/10.jpeg" alt="BlueNoiseHeader">
 
 2. `1pc ESP32` NOTE... YOU CAN USE A `NANO OR MICRO` BUT ESP32 ARE CHEAP ALMOST SAME PRICE AS `ARDUINOS`...LOL
-- <img src="image/08.PNG" alt="BlueNoiseHeader" width="400" height="600">
+- <img src="image/08.PNG" alt="BlueNoiseHeader">
 
 3. `10UF-100UF CAPACITOR DEPEND ON YOUR NRF` 
 - <img src="image/09.PNG" alt="BlueNoiseHeader" width="400" height="600">
@@ -40,13 +33,13 @@
 - <img src="image/07.jpg" alt="BlueNoiseHeader" width="400" height="600">
 
 5. `Lithium Polymer Battery 3.7V 1100mAh` 
-- <img src="image/04.jpg" alt="BlueNoiseHeader" width="400" height="600">
+- <img src="image/04.jpg" alt="BlueNoiseHeader">
 
 6. `Type-C USB 5V 1A 18650 Lithium Battery Charger Module` 
-- <img src="image/06.jpg" alt="BlueNoiseHeader" width="400" height="600">
+- <img src="image/06.jpg" alt="BlueNoiseHeader">
 
 7. `DC Step Up Converter, 3.7 V to 5 V 8 V 9 V 12 V` 
-- <img src="image/05.jpg" alt="BlueNoiseHeader" width="400" height="600">
+- <img src="image/05.jpg" alt="BlueNoiseHeader">
 
 
 ---
@@ -69,14 +62,14 @@
 
 
 ### NRF24L01 PINS
-- ![NRF24L01 PIN](https://github.com/smoochiee/Ble-jammer/assets/30816448/e41779d4-565a-4044-9b88-c0acbea0e93e)
+- ![NRF24L01 PIN]<img src="image/12.PNG" alt="BlueNoiseHeader">
 
 ### ESP32 PINS WHERE YOU ATTACH YOUR `NRF24` AND `SWITCH `
-- ![32](https://github.com/smoochiee/Ble-jammer/assets/30816448/ba7c2991-1542-4296-8b8c-8011c2bc8e77)
+- ![32]<img src="image/11.PNG" alt="BlueNoiseHeader">
 
 
 ### HOW YOU ATTACH CAPACITOR LOOK OUT FOR POLAROITY SIGNS `- +`
-- ![NRF24 CAPACITOR](https://github.com/smoochiee/Ble-jammer/assets/30816448/bf24b643-7b70-4d73-962a-38fa0bffe30f)
+- ![NRF24 CAPACITOR]<img src="image/13.PNG" alt="BlueNoiseHeader">
 
 
 --- 
