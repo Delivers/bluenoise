@@ -71,6 +71,8 @@
 ### HOW YOU ATTACH CAPACITOR LOOK OUT FOR POLAROITY SIGNS `- +`
 - ![NRF24 CAPACITOR]<img src="image/13.PNG" alt="BlueNoiseHeader">
 
+### Wiring
+<img src="image/darwign.jpeg" alt="wirung">
 
 --- 
 
